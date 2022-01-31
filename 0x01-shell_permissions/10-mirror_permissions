@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod cp hello olleh
+chmod --wxr-xr hellow olleh
