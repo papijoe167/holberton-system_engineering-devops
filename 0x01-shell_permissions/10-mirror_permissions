@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --wxr-xr hellow olleh
+chown 0666 hellow olleh
