@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 0666 hellow olleh
+chmod hello cp olleh
