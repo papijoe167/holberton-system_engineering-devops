@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod hello cp olleh
+sudo chown --from=root hello olleh
