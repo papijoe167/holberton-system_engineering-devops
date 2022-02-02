@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --from=root hello olleh
+chmod --refernce=olle helloh
